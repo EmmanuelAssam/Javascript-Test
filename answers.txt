@@ -1,0 +1,7 @@
+                                NUMBER 5 ANSWER:
+1> split() method: it is a method in JavaScript whereby the split() method is used to split a string into an array of substrings based on a specified separator.
+2> join() method: In JavaScript, the join() method is used to join all elements of an array into a string.
+
+                                NUMBER 6 ANSWER:
+1> push() method: The push() method is used to add one or more elements to the end of an array 
+2> pop() method: This is a method which removes the element from the end of an array.
